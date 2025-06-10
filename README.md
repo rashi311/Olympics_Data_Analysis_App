@@ -61,34 +61,64 @@ git clone https://github.com/your-username/olympics-analysis-app.git
 cd olympics-analysis-app
 ```
 
-2. Install dependencies
+### 2. Install dependencies
 Create a virtual environment
 ```
 python -m venv env
 env\Scripts\activate
 ```
 
-3. Install required packages:
+### 3. Install required packages:
 ```
 pip install -r requirements.txt
 ```
 
-3. Add the CSV files
+### 4. Add the CSV files
 Ensure the following files are placed in the project root:
 - Athlete_Event.csv
 - noc_regions.csv
 - olympic_logo.png (for sidebar branding)
 
-4. Run the app
+### 5. Run the app
 ```
 streamlit run app.py
 ```
 
 ## Screenshots
 
+<p align="center">
+  <img src="images/screenshot24.png" width="500">
+</p>
+<p align="center">
+  <img src="images/screenshot26.png" width="500">
+</p>
+<p align="center">
+  <img src="images/screenshot27.png" width="500">
+</p>
+<p align="center">
+  <img src="images/screenshot28.png" width="500">
+</p>
+<p align="center">
+  <img src="images/screenshot29.png" width="500">
+</p>
+<p align="center">
+  <img src="images/screenshot30.png" width="500">
+</p>
+<p align="center">
+  <img src="images/screenshot31.png" width="500">
+</p>
+<p align="center">
+  <img src="images/screenshot32.png" width="500">
+</p>
+<p align="center">
+  <img src="images/screenshot33.png" width="500">
+</p>
+<p align="center">
+  <img src="images/screenshot34.png" width="500">
+</p>
 
-🙌 Acknowledgements
-Dataset sourced from Kaggle - Olympic History Dataset
+## 🙌 Acknowledgements
+### Dataset sourced from Kaggle - Olympic History Dataset
 
-Streamlit documentation and community for excellent support.
+### Streamlit documentation and community for excellent support.
 
