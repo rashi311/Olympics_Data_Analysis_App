@@ -90,7 +90,7 @@ streamlit run app.py
   <img src="images/screenshot24.png" width="500">
 </p>
 <p align="center">
-  <img src="images/screenshot25.png" width="500">
+  <img src="images/screesnhot25.png" width="500">
 </p>
 <p align="center">
   <img src="images/screenshot26.png" width="500">
